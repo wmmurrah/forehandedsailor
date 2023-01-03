@@ -1,15 +1,23 @@
 project:
   type: website
   output-dir: docs
+  
 website:
   title: "Becoming A Forehanded Sailor"
+
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: boat_projects.qmd
-      - resources.qmd
+      - text: "Resources"
+        menu:
+          - resources.qmd
+          - navigation.qmd
+          - weather.qmd
+          - mooring.qmd
       - videos.qmd
 
 format:

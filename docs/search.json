@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nplot(mpg ~ hp, data = mtcars)"
+    "objectID": "mooring.html#websites",
+    "href": "mooring.html#websites",
+    "title": "Docking, Anchoring, and Mooring",
+    "section": "Websites",
+    "text": "Websites"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "mooring.html#videos",
+    "href": "mooring.html#videos",
+    "title": "Docking, Anchoring, and Mooring",
+    "section": "Videos",
+    "text": "Videos\nThe Maryland School of Sailing Youtube Channel provides many videos related to sailing."
+  },
+  {
+    "objectID": "mooring.html#trainings",
+    "href": "mooring.html#trainings",
+    "title": "Docking, Anchoring, and Mooring",
+    "section": "Trainings",
+    "text": "Trainings"
   }
 ]
