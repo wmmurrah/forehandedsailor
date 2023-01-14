@@ -20,6 +20,7 @@ website:
           - weather.qmd
           - mooring.qmd
       - videos.qmd
+      - caplog.qmd
 
 format:
   html:
