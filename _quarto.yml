@@ -4,8 +4,9 @@ project:
   
 website:
   title: "Becoming A Forehanded Sailor"
-
+  favicon: anchor.png
   navbar:
+    logo: anchor.png
     search: true
     left:
       - href: index.qmd
