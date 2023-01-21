@@ -2,8 +2,6 @@
 title: "Resources Overview"
 ---
 
-
-
 ## Dinghies
 
 * [Chesapeake Light Craft](https://www.clcboats.com/index.php)
