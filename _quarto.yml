@@ -12,10 +12,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: boat_projects.qmd
-      - text: "Resources"
+      - href: boats.qmd
+      - text: "Seamanship Skills"
         menu:
-          - resources.qmd
+          - skills.qmd
           - navigation.qmd
           - weather.qmd
           - mooring.qmd
