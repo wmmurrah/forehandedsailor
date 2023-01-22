@@ -12,7 +12,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: "Outlier"
+        menu: 
+          - outlier.qmd
+          - motor.qmd
       - text: "Boats and Stuff"
         menu: 
           - boats.qmd
@@ -25,7 +28,12 @@ website:
           - weather.qmd
           - mooring.qmd
       - videos.qmd
-      - caplog.qmd
+      - text: "Captain's Log"
+        menu: 
+          - caplog2021.qmd
+          - caplog2022.qmd
+          - caplog2023.qmd
+      - about.qmd
 
 format:
   html:
