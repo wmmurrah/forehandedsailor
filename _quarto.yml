@@ -13,10 +13,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Boats and Stuff"
+        menu: 
+          - boats.qmd
+          - dinghies.qmd
       - href: boats.qmd
-      - text: "Seamanship Skills"
+      - text: "Seamanship"
         menu:
-          - skills.qmd
+          - seamanship.qmd
           - navigation.qmd
           - weather.qmd
           - mooring.qmd

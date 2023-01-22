@@ -2,6 +2,10 @@
 title: "Welcome!"
 ---
 
+::: {.column-margin}
+![](anchor.png){width="120%"}
+:::
+
 The title of this website is much more of an aspiration than assertion.
 The goal of the site is to document my journey to become a forehanded sailor.
 The initial purpose of this site is as a repository for the information to document what I have done to become a sailor, and to help me plan future projects and adventures.
