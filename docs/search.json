@@ -61,5 +61,19 @@
     "title": "Videos",
     "section": "",
     "text": "Outlier: Squall on Lake Martin"
+  },
+  {
+    "objectID": "code/motor.html",
+    "href": "code/motor.html",
+    "title": "Outboard Motor",
+    "section": "",
+    "text": "boats.net\n\ngetwd()\n\n[1] \"/Users/wmm0017/Projects/Websites/forehandedsailor/code\"\n\n# source(file = \"table_outboardTuneup2023_01_21.R\")\n#knitr::kable(order)\n\n\nSo with shipping and handling (`r paste0(\"$\", shipping)`) and tax (`r paste0(\"$\",tax)`) that brought the total to `r paste0(\"$\", Total)`."
+  },
+  {
+    "objectID": "motor.html",
+    "href": "motor.html",
+    "title": "Outboard Motor",
+    "section": "",
+    "text": "boats.net\n\ngetwd()\n\n[1] \"/Users/wmm0017/Projects/Websites/forehandedsailor\"\n\nsource(file = \"code/table_outboardTuneup2023_01_21.R\")\nknitr::kable(order)\n\n\n\n\n\n\n\n\n\n\nItem_No\nOrder_Details\nQuantity\nPrice\n\n\n\n\n312722010\nSAFETY ROPE (Tohatsu)\n1\n2.85\n\n\n332600061\nGASKET (10 MULTIPLE) (Tohatsu)\n2\n1.70\n\n\n369022301\nFUEL FILTER (Tohatsu) 12.12\n1\n12.12\n\n\n369650110\nLINER, WATER PUMP CASE (Tohatsu)\n1\n5.27\n\n\n369650181\nGASKET, WATER PUMP CASE (Tohatsu)\n1\n1.83\n\n\n369650211\nIMPELLER NS3.5B/NS5B/4-6HP 4STR (Tohatsu)\n1\n19.28\n\n\n369650220\nKEY (Tohatsu)\n1\n1.49\n\n\n369650250\nGUIDE PLATE (Tohatsu)\n1\n2.89\n\n\n369650290\nGASKET, PUMP GUIDE PLATE (Tohatsu)\n1\n1.85\n\n\n3H6074060\nWASHER (Tohatsu)\n1\n1.30\n\n\n3H6602180\nANODE, ZINC (SQUARE) (Tohatsu)\n1\n5.51\n\n\n9515030318\nSPLIT PIN (10 MULTIPLE) (Tohatsu)\n1\n0.95\n\n\n\n\n\nSo with shipping and handling being $9.95 and tax at$5.13, that brought the total to $72.12."
   }
 ]
