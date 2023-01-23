@@ -13,7 +13,7 @@ I wanted to do it myself, to save money, and, well, that is one of the reasons I
 
 
 ```{r}
-getwd()
+#| echo: false
 source(file = "code/table_outboardTuneup2023_01_21.R")
 knitr::kable(order)
 ```
