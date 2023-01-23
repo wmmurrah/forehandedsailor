@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - CNAME: "www.forehandedsailor.com"
+    - CNAME
 website:
   title: "Becoming A Forehanded Sailor"
   favicon: anchor.png

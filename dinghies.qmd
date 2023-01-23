@@ -5,7 +5,7 @@ title: "Dinghies"
 One of the things that I was not expecting to enjoy so much about sailing was
 being at anchor. 
 
-![Anchored on Lake Martin](images/bigpineanchorage1.jpg){fig-align="left" width=300}
+![Anchored on Lake Martin](images/bigpineanchorage1.jpg){fig-align="left"}
 
 But anchoring poses some logistical issues, a major one is how
 to get ashore.
