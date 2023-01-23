@@ -18,6 +18,6 @@ source(file = "code/table_outboardTuneup2023_01_21.R")
 knitr::kable(order)
 ```
 
-So with shipping and handling being `r paste0("$", shipping)` and tax at`r paste0("$",tax)`, that brought the total to `r paste0("$", Total)`.
+So with shipping and handling being `r paste0("$", shipping)` and tax at `r paste0("$",tax)`, that brought the total to `r paste0("$", Total)`.
 Note that in this order I purchased a spare pull cord to keep as a backup, so the total for the tune up is about three dollars less. 
 Also, a couple of the parts I ordered have multiple items, so will likely not have to purchas again for the next several tune ups.
