@@ -16,11 +16,10 @@ website:
         menu: 
           - outlier.qmd
           - motor.qmd
-      - text: "Boats and Stuff"
+      - text: "Dream Boat(s)"
         menu: 
           - boats.qmd
           - dinghies.qmd
-      - href: boats.qmd
       - text: "Seamanship"
         menu:
           - seamanship.qmd
@@ -33,7 +32,6 @@ website:
           - caplog2021.qmd
           - caplog2022.qmd
           - caplog2023.qmd
-      - about.qmd
 
 format:
   html:
