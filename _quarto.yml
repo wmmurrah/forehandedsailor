@@ -6,6 +6,12 @@ project:
 website:
   title: "Becoming A Forehanded Sailor"
   favicon: anchor.png
+  sidebar:
+    title: "Captain's Logs"
+    logo: "images/clay-banks-caplog-unsplash.jpg"
+    background: secondary
+    style: floating
+    contents: caplogs
   navbar:
     logo: anchor.png
     search: true
@@ -27,12 +33,9 @@ website:
           - weather.qmd
           - mooring.qmd
       - videos.qmd
-      - text: "Captain's Log"
-        menu: 
-          - caplog2021.qmd
-          - caplog2022.qmd
-          - caplog2023.qmd
-
+         
+  
+        
 format:
   html:
     theme:  lumen # zephyr, yeti, superhero, sketchy, lumen, materia, sandstone
