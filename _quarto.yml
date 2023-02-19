@@ -8,7 +8,7 @@ website:
   favicon: anchor.png
   sidebar:
     title: "Captain's Logs"
-    logo: "images/clay-banks-caplog-unsplash.jpg"
+    logo: "images/outlierDockedSantaRosa.jpg"
     background: secondary
     style: floating
     contents: caplogs

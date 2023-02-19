@@ -3,7 +3,7 @@ title: "Welcome!"
 ---
 
 ::: {.column-margin}
-![](images/anchor.png){width="120%"}
+![](anchor.png){width="120%"}
 :::
 
 The title of this website is much more of an aspiration than assertion.
